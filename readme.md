@@ -27,7 +27,7 @@ by default config.json should be like this
 {
 	"username": "",
 	"password": "",
-	count: 0
+	"count": 0
 }
 ```
 ## Solution 3
