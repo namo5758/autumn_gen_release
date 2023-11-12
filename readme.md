@@ -32,4 +32,4 @@ by default config.json should be like this
 ```
 ## Solution 3
 By default the path that specify config.json is ```config/config.json```
-In some case the config.json is not in config folder. you need to try move config.json back to config folder.
+In some case the config.json was not in config folder. you need to try move config.json back to config folder.
